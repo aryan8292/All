@@ -14,9 +14,9 @@ from pyrogram.errors import FloodWait
 
 teletips=Client(
     "PingAllBot",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    bot_token = os.environ["BOT_TOKEN"]
+    api_id = int(os.environ["3334521"]),
+    api_hash = os.environ["29edd7420d528140c7a04bd47486886f"],
+    bot_token = os.environ["6888007957:AAFFjOmFet-tLmYP_YqGhGErz5lBqdlN8hA"]
 )
 
 chatQueue = []
